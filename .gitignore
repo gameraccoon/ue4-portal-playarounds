@@ -1,0 +1,16 @@
+/DerivedDataCache
+/Intermediate
+/Saved
+/ContentPrecompiled
+/Binaries
+/Build
+*.opensdf
+/Rubik.sdf
+*.sln
+*.suo
+*.db
+*.opendb
+/.vs
+
+# symlink used for vs-chromium
+/EngineSource
